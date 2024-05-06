@@ -1,0 +1,78 @@
+body {
+  font-family: 'Open Sans', monospace;
+  font-weight: 300;
+  line-height: 1.5;
+  background-color: DFF6FF;
+  text-align: center
+}
+
+h1,h4 {
+  color: #06283D;
+  text-align: center
+}
+
+h2 {
+  color: #1363DF;
+  font-size: 1.5rem;
+  text-align: center
+}
+
+p {
+  color: #06283D;
+  text-align: center
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  text-align: center
+}
+
+.button {
+  font-family: 'Open Sans', monospace;
+  font-weight: 400;
+  border: 10;
+  line-height: 10;
+  padding: 15px;
+  font-size: 1rem;
+  text-align: center;
+  color: #1363DF;
+  border-radius: 30px;
+  background-color: #DFF6FF;
+  transition: 0.5s ease;
+  text-align: center
+}
+
+.button:hover {
+  background-color: #47B5FF;
+}
+
+.card {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 10px;
+  border: 30;
+}
+
+.list {
+  list-style-type: none
+}
+
+.nabar ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.i {
+  font-size: 50px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-evenly;
+}
